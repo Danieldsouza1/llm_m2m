@@ -1,0 +1,3 @@
+timestamp,task,agent,status,fault_type,error,decision,correct_action,is_correct,latency
+2026-03-22 20:43:41,generate_power,Plant1,SUCCESS,none,,,,,11.203
+2026-03-22 20:44:13,transmit_power,Transmission1,FAILURE,breaker_failure,ERROR: Circuit breaker failed to trip at bus 4,SHUTDOWN,SHUTDOWN,1,32.088

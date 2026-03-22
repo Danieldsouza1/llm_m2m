@@ -1,0 +1,7 @@
+paho-mqtt
+chromadb
+ollama
+streamlit
+plotly
+pandas
+httpx
